@@ -1,0 +1,19 @@
+{
+  "counties": [
+    {
+      "name": "Santa Clara",
+      "state": "CA",
+      "tax_rate": 0.012
+    },
+    {
+      "name": "San Mateo",
+      "state": "CA",
+      "tax_rate": 0.011
+    },
+    {
+      "name": "Santa Cruz",
+      "state": "CA",
+      "tax_rate": 0.010
+    }
+  ]
+}
